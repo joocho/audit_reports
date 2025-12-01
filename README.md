@@ -1,4 +1,4 @@
-# Public audit reports
+# Public audit reports & Events
 
 ## ZKP
 - [Halborn](https://github.com/HalbornSecurity/PublicReports/tree/master/ZK%20Audits)
@@ -17,5 +17,35 @@
 
 ## MPC
 
-## DeFi
 
+# Conferences, Workshop & Events
+
+
+## ZKP
+- ZK Summit: https://www.zksummit.com/
+- ZK Proof Stabdard: https://zkproof.org/
+- ZK Hack: https://zkhack.dev/events/
+- ZK meetup
+
+  
+## MPC
+- TPMPC: https://www.multipartycomputation.com/
+
+## Blockchain
+
+- Verifiable summit (Poland)
+- DeFi security summit
+
+## Cybersecurity
+
+- OpenSSL Conference
+- Euskalhack
+- SNB-CIF Conference on Cryptoassets and Financial Innovation
+- Insomni'Hack
+- Finance and Technology Conference 
+- Black Hat Europe
+- CCC in Hamburg (December)
+- RWC
+- crypt@b-it 2022
+- USENIX
+- International White Hat Conference
