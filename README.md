@@ -13,7 +13,7 @@
 - [Zellic bloc](https://www.zellic.io/blog/)
 - [trailofbits](https://github.com/trailofbits/publications)
 - [Aleo audits of snarkOS & snarkVM](https://aleo.org/post/aleo-completes-security-audits-of-snarkos-and-snarkvm/)
-
+- [Plonky3 by least authority](https://github.com/Plonky3/Plonky3/tree/main/audits)
 
 ## MPC
 
